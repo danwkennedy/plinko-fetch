@@ -13,7 +13,7 @@
     "style-check": "eslint ."
   },
   "devDependencies": {
-    "conventional-changelog": "^0.5.3",
+    "conventional-changelog": "^3.1.15",
     "eslint": "^6.6.0",
     "git-hooks": "^1.1.7",
     "jest": "^19.0.2"

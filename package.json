@@ -16,7 +16,7 @@
     "conventional-changelog": "^3.1.15",
     "eslint": "^7.2.0",
     "git-hooks": "^1.1.7",
-    "jest": "^26.0.1"
+    "jest": "^27.0.5"
   },
   "dependencies": {
     "lodash.defaults": "^4.2.0",
